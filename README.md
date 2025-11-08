@@ -16,6 +16,7 @@ UI/UX-Focused Web Developer | Building Intuitive Interfaces that Inspire and Eng
 
 * 🌍  I'm based in Maryland-USA
 * ✉️  You can contact me at [tim.tchouamou@gmail.com](mailto:tim.tchouamou@gmail.com)
+* 🧠  I'm currently learning Figma, anima
 * 👥  I'm looking to collaborate on projects that push the boundaries of creative coding, web design, and digital experience innovation.
 * 💬  Ask me about truly believe to make a meaningful impact in the world of coding.
 
