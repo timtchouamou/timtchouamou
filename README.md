@@ -15,6 +15,7 @@ Frontend Engineer | Turning Creative Concepts into High-Impact User Experiences
 UI/UX-Focused Web Developer | Building Intuitive Interfaces that Inspire and Engage
 
 * 🌍  I'm based in Maryland-USA
+* 🖥️  See my portfolio at [https://porfolio-tim.vercel.app/](http://porfolio-tim.vercel.app/)
 * ✉️  You can contact me at [tim.tchouamou@gmail.com](mailto:tim.tchouamou@gmail.com)
 * 🧠  I'm currently learning Figma, anima
 * 👥  I'm looking to collaborate on projects that push the boundaries of creative coding, web design, and digital experience innovation.
